@@ -1,1 +1,7 @@
 main branch changed
+
+new branch
+changes for stash
+completely cahnged everything
+
+added some stuff again

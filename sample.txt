@@ -1,7 +1,1 @@
-<<<<<<< Updated upstream
-changed on github
-
-=======
-new brabch
-changes for stash
->>>>>>> Stashed changes
+main branch changed

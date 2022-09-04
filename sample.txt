@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-main branch changed
-=======
 main branch changed
 
-conflict
->>>>>>> new
